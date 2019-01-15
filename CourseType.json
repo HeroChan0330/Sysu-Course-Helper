@@ -1,0 +1,26 @@
+{
+    "专选":{
+        "selectedCate":"21",
+        "selectedType":"1"
+    },
+    "专必":{
+        "selectedCate":"11",
+        "selectedType":"1"
+    },
+    "公选":{
+        "selectedCate":"11",
+        "selectedType":"4"
+    },
+    "体育":{
+        "selectedCate":"10",
+        "selectedType":"3"
+    },
+    "大英":{
+        "selectedCate":"10",
+        "selectedType":"5"
+    },
+    "公必":{
+        "selectedCate":"10",
+        "selectedType":"1"  
+    }
+}
